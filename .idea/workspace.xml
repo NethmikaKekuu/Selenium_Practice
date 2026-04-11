@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="868142d9-b8d2-4563-8c84-28e67d6006ac" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OpenGoogleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OpenGoogleTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,18 @@
       <recent name="C:\Users\nethm\Desktop\SeleniumPractice\src\test" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.LinkExample">
+    <configuration name="LinkExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OpenGoogleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <option name="PACKAGE_NAME" value="" />
@@ -62,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LinkExample" />
         <item itemvalue="TestNG.OpenGoogleTest" />
       </list>
     </recent_temporary>
