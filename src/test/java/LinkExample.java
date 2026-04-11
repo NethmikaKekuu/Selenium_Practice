@@ -45,8 +45,9 @@ public class LinkExample {
 
         //(04) Duplicate Link
         List<WebElement> homeLink1 = driver.findElements(By.linkText("Go to Dashboard"));
-        for (WebElement link : homeLink1) {
-            link.click();
+
+        for (int i = 0; i < homeLink1.size(); i++) {
+            driver.findElements(By.linkText("Go to Dashboard")).get(i).click();
             driver.navigate().back();
         }
 
