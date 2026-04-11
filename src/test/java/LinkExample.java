@@ -14,7 +14,7 @@ public class LinkExample {
 
     @BeforeMethod
     public void openLinkTestPage() {
-        WebDriver driver = new ChromeDriver();
+        driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("https://www.leafground.com/link.xhtml");
     }
@@ -44,9 +44,11 @@ public class LinkExample {
         driver.navigate().back();
 
         //(04) Duplicate Link
-        WebElement homeLink1 = driver.findElement(By.linkText("Go to Dashboard"));
-        homeLink1.click();
-        driver.navigate().back();
+        List<WebElement> homeLink1 = driver.findElements(By.linkText("Go to Dashboard"));
+        for (WebElement link : homeLink1) {
+            link.click();
+            driver.navigate().back();
+        }
 
         //(05) Count page links
         List<WebElement> countfullpageLinks = driver.findElements(By.tagName("a"));
