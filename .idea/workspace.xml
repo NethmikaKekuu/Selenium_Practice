@@ -34,6 +34,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.ButtonExample.executor": "Run",
     "TestNG.LinkExample.executor": "Run",
     "TestNG.OpenGoogleTest.executor": "Run",
     "TestNG.TextBoxExample.executor": "Run",
@@ -49,7 +50,18 @@
       <recent name="C:\Users\nethm\Desktop\SeleniumPractice\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TextBoxExample">
+  <component name="RunManager" selected="TestNG.ButtonExample">
+    <configuration name="ButtonExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ButtonExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinkExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <option name="PACKAGE_NAME" value="" />
@@ -85,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ButtonExample" />
         <item itemvalue="TestNG.TextBoxExample" />
         <item itemvalue="TestNG.LinkExample" />
         <item itemvalue="TestNG.OpenGoogleTest" />
