@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="868142d9-b8d2-4563-8c84-28e67d6006ac" name="Changes" comment="" />
+    <list default="true" id="868142d9-b8d2-4563-8c84-28e67d6006ac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +35,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TestNG.ButtonExample.executor": "Run",
+    "TestNG.DropDownExample.executor": "Run",
     "TestNG.LinkExample.executor": "Run",
     "TestNG.OpenGoogleTest.executor": "Run",
     "TestNG.TextBoxExample.executor": "Run",
@@ -48,7 +51,7 @@
       <recent name="C:\Users\nethm\Desktop\SeleniumPractice\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.DropDownExample">
+  <component name="RunManager" selected="TestNG.Radio_CheckBox_Example">
     <configuration name="ButtonExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <option name="PACKAGE_NAME" value="" />
@@ -82,10 +85,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenGoogleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Radio_CheckBox_Example" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="OpenGoogleTest" />
+      <option name="MAIN_CLASS_NAME" value="Radio_CheckBox_Example" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -106,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Radio_CheckBox_Example" />
         <item itemvalue="TestNG.DropDownExample" />
         <item itemvalue="TestNG.ButtonExample" />
         <item itemvalue="TestNG.TextBoxExample" />
         <item itemvalue="TestNG.LinkExample" />
-        <item itemvalue="TestNG.OpenGoogleTest" />
       </list>
     </recent_temporary>
   </component>
