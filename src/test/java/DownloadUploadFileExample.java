@@ -58,7 +58,7 @@ public class DownloadUploadFileExample {
 
         String filePath = "C:\\Users\\nethm\\Desktop\\11\\11.png";
 
-        // 🔹 1st way - Using Robot Class (OS-level)
+        //  1st way - Using Robot Class (OS-level)
         WebElement uploadBtn = driver.findElement(By.id("j_idt88:j_idt89"));
         uploadBtn.click();
 
