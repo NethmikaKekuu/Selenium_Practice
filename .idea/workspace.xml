@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="868142d9-b8d2-4563-8c84-28e67d6006ac" name="Changes" comment="" />
+    <list default="true" id="868142d9-b8d2-4563-8c84-28e67d6006ac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,10 +37,12 @@
     "TestNG.AlertExample.executor": "Run",
     "TestNG.ButtonExample.executor": "Run",
     "TestNG.DropDownExample.executor": "Run",
+    "TestNG.FrameExample.executor": "Run",
     "TestNG.LinkExample.executor": "Run",
     "TestNG.OpenGoogleTest.executor": "Run",
     "TestNG.Radio_CheckBox_Example.executor": "Run",
     "TestNG.TextBoxExample.executor": "Run",
+    "TestNG.WindowExample.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -51,7 +55,7 @@
       <recent name="C:\Users\nethm\Desktop\SeleniumPractice\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.WindowExample">
+  <component name="RunManager" selected="TestNG.FrameExample">
     <configuration name="AlertExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <option name="PACKAGE_NAME" value="" />
@@ -63,10 +67,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ButtonExample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DropDownExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ButtonExample" />
+      <option name="MAIN_CLASS_NAME" value="DropDownExample" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -74,10 +78,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DropDownExample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FrameExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DropDownExample" />
+      <option name="MAIN_CLASS_NAME" value="FrameExample" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -109,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FrameExample" />
         <item itemvalue="TestNG.WindowExample" />
         <item itemvalue="TestNG.AlertExample" />
         <item itemvalue="TestNG.Radio_CheckBox_Example" />
         <item itemvalue="TestNG.DropDownExample" />
-        <item itemvalue="TestNG.ButtonExample" />
       </list>
     </recent_temporary>
   </component>
