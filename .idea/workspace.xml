@@ -34,6 +34,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.ActionKeyboardExample.executor": "Run",
     "TestNG.ActionsMouseOperationsExample.executor": "Run",
     "TestNG.AlertExample.executor": "Run",
     "TestNG.ButtonExample.executor": "Run",
@@ -56,7 +57,18 @@
       <recent name="C:\Users\nethm\Desktop\SeleniumPractice\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ActionsMouseOperationsExample">
+  <component name="RunManager" selected="TestNG.DownloadUploadFileExample">
+    <configuration name="ActionKeyboardExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ActionKeyboardExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ActionsMouseOperationsExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <option name="PACKAGE_NAME" value="" />
@@ -68,10 +80,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AlertExample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DownloadUploadFileExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AlertExample" />
+      <option name="MAIN_CLASS_NAME" value="DownloadUploadFileExample" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -83,17 +95,6 @@
       <module name="SeleniumPractice" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="FrameExample" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Radio_CheckBox_Example" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Radio_CheckBox_Example" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DownloadUploadFileExample" />
+        <item itemvalue="TestNG.ActionKeyboardExample" />
         <item itemvalue="TestNG.ActionsMouseOperationsExample" />
         <item itemvalue="TestNG.FrameExample" />
         <item itemvalue="TestNG.WindowExample" />
-        <item itemvalue="TestNG.AlertExample" />
-        <item itemvalue="TestNG.Radio_CheckBox_Example" />
       </list>
     </recent_temporary>
   </component>
