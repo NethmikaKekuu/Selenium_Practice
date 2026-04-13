@@ -34,10 +34,12 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.AlertExample.executor": "Run",
     "TestNG.ButtonExample.executor": "Run",
     "TestNG.DropDownExample.executor": "Run",
     "TestNG.LinkExample.executor": "Run",
     "TestNG.OpenGoogleTest.executor": "Run",
+    "TestNG.Radio_CheckBox_Example.executor": "Run",
     "TestNG.TextBoxExample.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
@@ -51,7 +53,18 @@
       <recent name="C:\Users\nethm\Desktop\SeleniumPractice\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Radio_CheckBox_Example">
+  <component name="RunManager" selected="TestNG.AlertExample">
+    <configuration name="AlertExample" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AlertExample" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ButtonExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <option name="PACKAGE_NAME" value="" />
@@ -67,17 +80,6 @@
       <module name="SeleniumPractice" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="DropDownExample" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkExample" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LinkExample" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -109,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AlertExample" />
         <item itemvalue="TestNG.Radio_CheckBox_Example" />
         <item itemvalue="TestNG.DropDownExample" />
         <item itemvalue="TestNG.ButtonExample" />
         <item itemvalue="TestNG.TextBoxExample" />
-        <item itemvalue="TestNG.LinkExample" />
       </list>
     </recent_temporary>
   </component>
