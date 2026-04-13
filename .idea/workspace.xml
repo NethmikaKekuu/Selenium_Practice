@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="868142d9-b8d2-4563-8c84-28e67d6006ac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="868142d9-b8d2-4563-8c84-28e67d6006ac" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +51,7 @@
       <recent name="C:\Users\nethm\Desktop\SeleniumPractice\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.AlertExample">
+  <component name="RunManager" selected="TestNG.WindowExample">
     <configuration name="AlertExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <option name="PACKAGE_NAME" value="" />
@@ -98,10 +96,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextBoxExample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WindowExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="TextBoxExample" />
+      <option name="MAIN_CLASS_NAME" value="WindowExample" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -111,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.WindowExample" />
         <item itemvalue="TestNG.AlertExample" />
         <item itemvalue="TestNG.Radio_CheckBox_Example" />
         <item itemvalue="TestNG.DropDownExample" />
         <item itemvalue="TestNG.ButtonExample" />
-        <item itemvalue="TestNG.TextBoxExample" />
       </list>
     </recent_temporary>
   </component>
