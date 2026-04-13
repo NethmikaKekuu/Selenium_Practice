@@ -34,6 +34,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.ActionsMouseOperationsExample.executor": "Run",
     "TestNG.AlertExample.executor": "Run",
     "TestNG.ButtonExample.executor": "Run",
     "TestNG.DropDownExample.executor": "Run",
@@ -55,11 +56,11 @@
       <recent name="C:\Users\nethm\Desktop\SeleniumPractice\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FrameExample">
-    <configuration name="AlertExample" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ActionsMouseOperationsExample">
+    <configuration name="ActionsMouseOperationsExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AlertExample" />
+      <option name="MAIN_CLASS_NAME" value="ActionsMouseOperationsExample" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -67,10 +68,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DropDownExample" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AlertExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DropDownExample" />
+      <option name="MAIN_CLASS_NAME" value="AlertExample" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ActionsMouseOperationsExample" />
         <item itemvalue="TestNG.FrameExample" />
         <item itemvalue="TestNG.WindowExample" />
         <item itemvalue="TestNG.AlertExample" />
         <item itemvalue="TestNG.Radio_CheckBox_Example" />
-        <item itemvalue="TestNG.DropDownExample" />
       </list>
     </recent_temporary>
   </component>
